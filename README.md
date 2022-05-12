@@ -55,9 +55,9 @@ I create blockchain related content on Youtube. [youtube]
 
 ### Connect with me:
 
-Instagram:[instagram]
-
-
+[instagram]
+[linkedin]
+[twitter]
 
 [website]: https://cavan-mitchell.github.io/p2/
 [twitter]: https://twitter.com/cavan_mitchell
