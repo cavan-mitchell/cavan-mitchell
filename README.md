@@ -7,8 +7,9 @@
 - 🔭 I’m currently working on blockchain related projects.
 - 💬 Ask me about ways we can collaborate. My email is cavan.chan@gmail.com
 - ⚡ Fun fact: I was ranked 53rd in World Series of Poker Tournment in Las Vegas out of ~30,000 entries.
+<br />
 
-I create blockchain related content on Youtube. [youtube] 
+I create blockchain related content on [youtube]. 
 
 
 ### Languages and Tools:
@@ -55,9 +56,9 @@ I create blockchain related content on Youtube. [youtube]
 
 ### Connect with me:
 
-[instagram] <br />
-[linkedin] <br />
-[twitter]
+- [instagram] <br />
+- [linkedin] <br />
+- [twitter]
 
 [website]: https://cavan-mitchell.github.io/p2/
 [twitter]: https://twitter.com/cavan_mitchell
