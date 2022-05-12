@@ -68,7 +68,7 @@ I create blockchain related content on [youtube].
 - [linkedin] <br />
 - [twitter]
 
-
+<br />
 
 
 [website]: https://cavan-mitchell.github.io/p2/
