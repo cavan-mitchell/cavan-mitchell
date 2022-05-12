@@ -60,11 +60,6 @@ I create blockchain related content on [youtube].
 - [linkedin] <br />
 - [twitter]
 
-### Connect with me:
-
-[website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-
 
 
 
