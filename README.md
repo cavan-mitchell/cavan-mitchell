@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Cavan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=cavan_mitchell)
 
 - 🔭 I’m currently working on blockchain related projects.
-- 💬 Ask me about ways we can collaborate. My email is cavan.chan@gmail.com
+- 💬 Ask me about ways we can collaborate. Contact section below...
 - ⚡ Fun fact: I was ranked 53rd in World Series of Poker Tournment in Las Vegas out of ~30,000 entries.
 <br />
 
