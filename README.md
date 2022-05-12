@@ -61,6 +61,14 @@ I create blockchain related content on [youtube].
 ➡️ [more blog posts...](https://medium.com/@cavan-mitchell)
 
 ---
+### Quick links to Blockchain Projects I've done:
+
+- Mint NFT's with our [robopunks] page.
+- Participate in our Chariable DAO to help victims of blockchain related scams with [buzzwired]
+
+
+
+---
 
 ### Connect with me:
 
@@ -71,9 +79,12 @@ I create blockchain related content on [youtube].
 <br />
 
 
+
 [website]: https://cavan-mitchell.github.io/p2/
 [twitter]: https://twitter.com/cavan_mitchell
 [youtube]: https://www.youtube.com/c/CavanMitchell
 [instagram]: https://instagram.com/cavanmitche11/
 [linkedin]: https://linkedin.com/in/cavan-mitchell-chan-a02352145/
+[robopunks]: https://cavan-mitchell.github.io/studiobox/
+[buzzwired]: https://cavan-mitchell.github.io/studiobox/
 
