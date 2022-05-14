@@ -80,7 +80,7 @@ I create blockchain related content on [youtube].
 
 
 
-[website]: https://cavan-mitchell.github.io/p2/
+[website]: https://www.cavanmitchell.com
 [twitter]: https://twitter.com/cavan_mitchell
 [youtube]: https://www.youtube.com/c/CavanMitchell
 [instagram]: https://instagram.com/cavanmitche11/
