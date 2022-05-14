@@ -86,6 +86,6 @@ I create blockchain related content on [youtube].
 [instagram]: https://instagram.com/cavanmitche11/
 [linkedin]: https://linkedin.com/in/cavan-mitchell-chan-a02352145/
 [robopunks]: https://cavan-mitchell.github.io/studiobox/
-[buzzwired]: https://cavan-mitchell.github.io/studiobox/
+[buzzwired]: http://www.buzzwired.org
 [studiobox]: https://cavan-mitchell.github.io/studiobox/
 
