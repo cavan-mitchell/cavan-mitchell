@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on blockchain related projects.
 - 💬 Ask me about ways we can collaborate. Contact section below...
-- 🏆 Team placed 1st to win $3000 Prize from NEAR Protocol Challenge at 2022 Miami for Everyone Hackathon (43 Participants)
+- 🏆 Team placed 1st to win $3000 Prize from [NEAR Protocol Challenge at 2022 Miami for Everyone Hackathon.](https://www.youtube.com/watch?v=zX432pB6Rbk&t=109s)
 - ⚡ Fun fact: I was ranked 53rd in World Series of Poker Tournment in Las Vegas out of ~30,000 entries.
 <br />
 
